@@ -1,0 +1,9 @@
+{
+  "phone": "12345",
+  "email": "test@lol.de",
+  "address": {
+    "street": "hasnweg",
+    "number": "4",
+    "city": "kiel"
+  }
+}
